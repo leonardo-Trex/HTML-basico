@@ -1,0 +1,19 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); */
+.img {
+    display: flex; 
+    /* align-items: center;*/
+    justify-content: center;
+} 
+.texto {
+    display: flex; 
+    justify-content: center;
+    background-color: green;
+    width: 70%;
+    /* font-family: "Press Start 2P", serif; */
+    /* font-weight: 100; */
+    /* font-style: normal; */
+        }
+.caixa {
+    display: flex; 
+    justify-content: center;                            
+}
